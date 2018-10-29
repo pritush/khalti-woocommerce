@@ -8,3 +8,5 @@ Enable Khalti Wallet to start accepting payment. Click on "manage" button to con
 
 Test Mode can be enable to check the functionality. Test the transactions on Test mode before going live. 
 Live mode can be enabled by unchecking “Enable Test Mode”  
+
+For Queries call 9801165568 or email merchantapi@khalti.com
